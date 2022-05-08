@@ -138,6 +138,13 @@
               "menu": "footer"
             }
           },
+          "122adb3f-271b-40ba-bd5e-9684f09d7c03": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
           "footer-1": {
             "type": "link_list",
             "disabled": true,
@@ -152,12 +159,23 @@
               "heading": "Our mission",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "12b6191d-34d5-4469-a270-5c567e6e18a6": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ft-band.jpg",
+              "image_width": 175,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "footer-0",
+          "122adb3f-271b-40ba-bd5e-9684f09d7c03",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "12b6191d-34d5-4469-a270-5c567e6e18a6"
         ],
         "settings": {
           "color_scheme": "background-2",
